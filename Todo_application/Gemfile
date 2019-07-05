@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+# Specify your gem's dependencies in Todo_application.gemspec
+gemspec
+gem 'rspec'
+gem 'mysql2', '~> 0.5.2'
+gem 'pry'
+
